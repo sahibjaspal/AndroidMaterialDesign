@@ -18,7 +18,7 @@ public class MainActivity extends ActionBarActivity {
 
     private void sampleFunc() {
 
-        
+
     }
 
     @Override
